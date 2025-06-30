@@ -6,7 +6,7 @@ This repository documents my study journey from the **Cybersecurity Foundations*
 
 ## 📜 Certificate
 
-- 🎓 [Cybersecurity Foundations Certificate – LinkedIn Learning](./cert/cert-cybersecurity-foundations-linkedin-CEUs%20PMI.png)
+- 🎓 [Cybersecurity Foundations Certificate – LinkedIn Learning](./cert/CertificateOfCompletion_Cybersecurity%20Foundations.pdf)
 
 ---
 
