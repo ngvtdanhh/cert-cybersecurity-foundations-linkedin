@@ -1,84 +1,117 @@
 # 🛡️ Cybersecurity Foundations – LinkedIn Learning
 
-This repository documents my learning journey through the **Cybersecurity Foundations** course on LinkedIn Learning. It includes notes, demo resources, a certificate of completion, and screenshots.
+This repository documents my study journey from the **Cybersecurity Foundations** course by [LinkedIn Learning](https://www.linkedin.com/learning/). It includes key concepts, hands-on demos, screenshots, and personal reflections to help learners understand the core principles of cybersecurity.
 
 ---
 
 ## 📜 Certificate
 
-- 🎓 [Cybersecurity Foundations Certificate](./cert/cybersecurity-foundations_linkedin_certificate.pdf)
+- 🎓 [Cybersecurity Foundations Certificate – LinkedIn Learning](./cert/cert-cybersecurity-foundations-linkedin-CEUs%20PMI.png)
 
 ---
 
-## 📒 Topics Covered
+## 🧠 Topics Covered
 
-- 🔐 The CIA Triad (Confidentiality, Integrity, Availability)
-- 🕵️‍♂️ Threat Actors & Attack Vectors
-- 🧱 Defense in Depth Strategies
-- 📉 Risk Assessment & Security Planning
-- 🔄 Policies, Awareness, and Training
-
----
-
-## 📂 Repository Structure
-
-| Folder        | Content                                 |
-|---------------|------------------------------------------|
-| `notes/`      | Topic-based summaries and key concepts  |
-| `demo/`       | Practical security templates & examples |
-| `cert/`       | LinkedIn Learning certificate           |
-| `screenshots/`| Visuals from the course lessons         |
+- 🔐 CIA Triad (Confidentiality, Integrity, Availability)
+- 🕵️ Threat Actors & Attack Vectors
+- 🧱 Defense in Depth
+- 📉 Risk Management Strategies
+- 🧪 Practical security demos and use cases
 
 ---
 
-## 📸 Screenshots
+## 📒 Notes
 
-| Week/Topic        | Screenshot |
-|-------------------|------------|
-| 🧠 Week 1 Overview | ![](./screenshots/linkedin-cyber-week1.png) |
-| 🔐 Week 2 Overview | ![](./screenshots/linkedin-cyber-week2.png) |
+> Key concepts written in Markdown for review or sharing.
+
+| Topic | File |
+|-------|------|
+| CIA Triad | [`cia-triad.md`](./notes/cia-triad.md) |
+| Threat Actors & Attack Vectors | [`threat-types.md`](./notes/threat-types.md) |
+| Defense in Depth | [`defense-in-depth.md`](./notes/defense-in-depth.md) |
+| Risk Management | [`risk-management.md`](./notes/risk-management.md) |
 
 ---
 
-## 💻 Demo Templates
+## 💻 Demo Files
 
-| File                              | Description                              |
-|-----------------------------------|------------------------------------------|
-| [`phishing-email-checklist.md`](./demo/phishing-email-checklist.md) | Checklist to detect phishing attempts    |
-| [`risk-assessment-template.md`](./demo/risk-assessment-template.md) | Template for evaluating security risks   |
+> Real-world security templates and checklists
+
+| File | Description |
+|------|-------------|
+| [`phishing-email-checklist.md`](./demo/phishing-email-checklist.md) | Checklist to detect phishing emails |
+| [`risk-assessment-template.md`](./demo/risk-assessment-template.md) | Risk table and scoring model for projects |
+
+---
+
+## 📸 Course Screenshots
+
+| Content Overview | Screenshot |
+|------------------|------------|
+| 📘 Course Introduction & Content | ![](./screenshots/cert-cybersecurity-foundations-linkedin-contents.png) |
+| 🧩 Course Structure & Detail | ![](./screenshots/cert-cybersecurity-foundations-linkedin-course%20details.png) |
+| 🧮 CEUs (PMI Certificate Detail) | ![](./screenshots/cert-cybersecurity-foundations-linkedin-CEUs%20PMI.png) |
+
+---
+
+## 📂 Repo Structure
+
+| Folder | Purpose |
+|--------|---------|
+| `notes/` | Key learning summaries |
+| `demo/` | Templates and scripts for hands-on practice |
+| `cert/` | Certificate of completion |
+| `screenshots/` | Visual references from the course |
+| `docs/` | Extra materials (references, policies, contribution) |
+
+---
+
+## 🔎 Additional Resources
+
+- 📚 [References](./docs/references.md)  
+- 🧪 [Lab Practice Ideas](./docs/lab-ideas.md)  
+- 🔐 [Security Policy](./docs/SECURITY.md)  
+- 🙌 [Contribution Guidelines](./docs/contributing.md)
 
 ---
 
 ## 📝 Course Review
 
-This course is ideal for absolute beginners and professionals transitioning into cybersecurity. It provides a strategic understanding of fundamental concepts and real-world threats.
+The **Cybersecurity Foundations** course by LinkedIn Learning is a strong introductory course that balances theory with real-world relevance.
 
-✅ What I liked:
-- Clear structure, concise delivery  
-- Business-oriented risk management topics  
-- Realistic examples like phishing and insider threats  
+✅ **Highlights:**
+- Clear explanation of cybersecurity principles
+- Good coverage of common threats and defenses
+- Suitable for aspiring SOC analysts, GRC, or Red Team interns
 
-📌 What could be improved:
-- More interactive labs or case studies  
-- Lacks technical hands-on elements  
-
----
-
-## 🔄 In Process
-
-This repository is still being updated with additional visuals and notes.
+📌 **Suggestions:**
+- Would benefit from more hands-on labs or capture-the-flag (CTF)-style tasks
+- Could include more technical breakdowns (e.g., logs, firewall config, etc.)
 
 ---
 
-## 📄 License
+## ⚠️ Security Warning
 
-**License**: [GNU AGPL v3.0](./LICENSE)  
-© 2025 ngvuthdanh. All rights reserved.
+> This repository is for educational purposes only.  
+> Do not apply the scripts or templates to live systems without permission.
+
+---
+
+## 🔄 In Progress
+
+This repository is actively maintained and may receive further updates or additional course integrations.
+
+---
+
+## 📜 License
+
+**License**: [GNU AGPLv3](./LICENSE)  
+© 2025 [@ngvuthdanh](https://github.com/ngvuthdanh) — All rights reserved.
 
 ---
 
 ## ✍️ Author
 
-**Thành Danh** – Pentester & Cybersecurity Student  
+**Thành Danh – Pentester & Cybersecurity Student**  
 GitHub: [@ngvuthdanh](https://github.com/ngvuthdanh)  
-Email: ngvu.thdanh@gmail.com
+Email: ngvu.thdanh@gmail.com  
