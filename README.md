@@ -46,11 +46,11 @@ This repository documents my study journey from the **Cybersecurity Foundations*
 
 ## 📸 Course Screenshots
 
-| Content Overview | Screenshot |
-|------------------|------------|
-| 📘 Course Introduction & Content | ![](./screenshots/cert-cybersecurity-foundations-linkedin-contents.png) |
+| Content Overview             | Screenshot |
+|-----------------------------|------------|
+| 📘 Course Introduction       | ![](./screenshots/cert-cybersecurity-foundations-linkedin-contents.png) |
 | 🧩 Course Structure & Detail | ![](./screenshots/cert-cybersecurity-foundations-linkedin-course%20details.png) |
-| 🧮 CEUs (PMI Certificate Detail) | ![](./screenshots/cert-cybersecurity-foundations-linkedin-CEUs%20%28PMI%20Certificate%20Detail%29.png) |
+| 🧮 CEUs (PMI Certificate)    | ![](./screenshots/cert-cybersecurity-foundations-linkedin-course-CEUs%20PMI.png) |
 
 ---
 
