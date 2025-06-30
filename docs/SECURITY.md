@@ -6,7 +6,7 @@ If you discover a security vulnerability in this repository or any of the templa
 
 - Email: ngvu.thdanh@gmail.com  
 
-- GitHub: [@ngvtdanhh](https://github.com/ngvtdanh)
+- GitHub: [@ngvtdanhh](https://github.com/ngvtdanhh)
 
 ## ⚠️ Scope
 
