@@ -95,23 +95,20 @@ The **Cybersecurity Foundations** course by LinkedIn Learning is a strong introd
 > This repository is for educational purposes only.  
 > Do not apply the scripts or templates to live systems without permission.
 
----
-
-## 🔄 In Progress
-
-This repository is actively maintained and may receive further updates or additional course integrations.
-
----
-
-## 📜 License
-
-**License**: [GNU AGPLv3](./LICENSE)  
-© 2025 [@ngvuthdanh](https://github.com/ngvuthdanh) — All rights reserved.
-
----
 
 ## ✍️ Author
 
-**Thành Danh – Pentester & Cybersecurity Student**  
-GitHub: [@ngvuthdanh](https://github.com/ngvuthdanh)  
-Email: ngvu.thdanh@gmail.com  
+Thành Danh – Pentester & Cybersecurity Research
+
+GitHub: @ngvtdanhh
+
+Email: ngvu.thdanh@gmail.com
+
+---
+
+## 📄 License
+
+This project is licensed under the terms of the **GNU AGPL v3.0**.  
+See [`LICENSE`](./LICENSE) for full details.
+
+© 2025 ngvtdanhh. All rights reserved.
