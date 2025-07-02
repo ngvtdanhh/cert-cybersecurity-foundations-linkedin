@@ -1,5 +1,12 @@
 # 🛡️ Cybersecurity Foundations – LinkedIn Learning
 
+![Platform](https://img.shields.io/badge/LinkedIn%20Learning-Certified-brightgreen?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square)
+![Level](https://img.shields.io/badge/Level-Foundational-orange?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity%20Principles-lightgrey?style=flat-square)
+![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square)
+
+
 This repository documents my study journey from the **Cybersecurity Foundations** course by [LinkedIn Learning](https://www.linkedin.com/learning/). It includes key concepts, hands-on demos, screenshots, and personal reflections to help learners understand the core principles of cybersecurity.
 
 ---
